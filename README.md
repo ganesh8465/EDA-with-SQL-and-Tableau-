@@ -19,3 +19,7 @@ This is the Tableau dashboard :
 
 ![CALLS DASHBOARD](https://github.com/ganesh8465/EDA-with-SQL-and-Tableau-/assets/60468999/65cd455d-ba17-44c6-8663-a2d1620b0b71)
 
+
+
+# A detail explaination is provided in the [Data Analysis Project.pdf](https://github.com/ganesh8465/EDA-with-SQL-and-Tableau-/files/12907081/Data.Analysis.Project.pdf)
+
